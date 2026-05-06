@@ -1,5 +1,6 @@
 # AOI-defection-classification
 CNN model for detecting defects on AOI images
+
 此專案為藉由AOI影像訓練深度學習模型辨識產品表面瑕疵，使用框架為TensorFlow。
 
 ---
